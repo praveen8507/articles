@@ -12,7 +12,7 @@
                 "title": "Wiki",
                 "upvotes": "150",
                 "views": "900",
-"adminDataDto": {
+"adminData": {
    "createdByName": "Abc Xyz",
    "updatedOn": "2023-10-01T10:00:00Z"
   }
@@ -28,7 +28,7 @@
                 "title": "Laptop Booting Issue",
                 "upvotes": "0",
                 "views": "10",
-"adminDataDto": {
+"adminData": {
    "createdByName": "Cde Xyz",
    "updatedOn": "2023-10-01T14:00:00Z"
   }
@@ -44,7 +44,7 @@
                 "title": "Laptop Heating Issue",
                 "upvotes": "1",
                 "views": "200",
-"adminDataDto": {
+"adminData": {
    "createdByName": "Cde Uvw",
    "updatedOn": "2023-10-01T10:30:00Z"
   }
@@ -60,7 +60,7 @@
                 "title": "AirPods",
                 "upvotes": "15",
                 "views": "90",
-"adminDataDto": {
+"adminData": {
    "createdByName": "Cde Uvw",
    "updatedOn": "2023-10-01T10:30:00Z"
   }
@@ -75,7 +75,7 @@
                 "search": "Samsung",
                 "title": "Samsung Galaxy Phone",
                 "upvotes": "10",
-"adminDataDto": {
+"adminData": {
    "createdByName": "Cde Uvw",
    "updatedOn": "2023-10-01T10:30:00Z"
   }

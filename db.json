@@ -1,0 +1,84 @@
+{"articles":[{
+"count":"5",
+"value":[
+{
+                "content": "A wiki (/ˈwɪki/ ⓘ WIK-ee) is an online hypertext publication collaboratively edited and managed by its own audience, using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project, and could be either open to the publ",
+                "downvotes": "0",
+                "id": "1",
+                "link": "https://en.wikipedia.org/wiki/Wiki",
+                "ratingCount": "15",
+                "ratingScore": "10",
+                "search": "Wiki",
+                "title": "Wiki",
+                "upvotes": "150",
+                "views": "900",
+"adminDataDto": {
+   "createdByName": "Abc Xyz",
+   "updatedOn": "2023-10-01T10:00:00Z"
+  }
+},
+{
+                "content": "If your computer's power LED lights up and you can hear the hard disk or fan(s) whirring, but there’s no image on the screen, then make the room dark and check that there isn’t a very faint image on the screen.",
+                "downvotes": "0",
+                "id": "1",
+                "link": "https://www.google.com/search?q=Laptop_Booting_Issue",
+                "ratingCount": "20",
+                "ratingScore": "2",
+                "search": "Laptop",
+                "title": "Laptop Booting Issue",
+                "upvotes": "0",
+                "views": "10",
+"adminDataDto": {
+   "createdByName": "Cde Xyz",
+   "updatedOn": "2023-10-01T14:00:00Z"
+  }
+},
+{
+                "content": "The most common reason for an overheating computer is dust buildup on the fans or air vents. Reduce the heat inside the computer to improve the system performance and prevent any damage to the internal components.",
+                "downvotes": "10",
+                "id": "2",
+                "link": "https://www.google.com/search?q=Laptop_Heating_Issue",
+                "ratingCount": "100",
+                "ratingScore": "3",
+                "search": "Laptop",
+                "title": "Laptop Heating Issue",
+                "upvotes": "1",
+                "views": "200",
+"adminDataDto": {
+   "createdByName": "Cde Uvw",
+   "updatedOn": "2023-10-01T10:30:00Z"
+  }
+},
+{
+                "content": "AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016",
+                "downvotes": "0",
+                "id": "4",
+                "link": "https://en.wikipedia.org/wiki/AirPods",
+                "ratingCount": "5",
+                "ratingScore": "10",
+                "search": "Apple",
+                "title": "AirPods",
+                "upvotes": "15",
+                "views": "90",
+"adminDataDto": {
+   "createdByName": "Cde Uvw",
+   "updatedOn": "2023-10-01T10:30:00Z"
+  }
+},
+{
+                "content": "Samsung Galaxy is a series of computing and mobile computing devices that are designed, manufactured and marketed by Samsung Electronics.",
+                "downvotes": "0",
+                "id": "5",
+                "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi45d6tv8eBAxVYFVkFHUfgD2YQFnoECBkQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSamsung_Galaxy&usg=AOvVaw1I9LuiLImpeEhqw7YXgTmW&opi=89978449",
+                "ratingCount": "10",
+                "ratingScore": "5",
+                "search": "Samsung",
+                "title": "Samsung Galaxy Phone",
+                "upvotes": "10",
+"adminDataDto": {
+   "createdByName": "Cde Uvw",
+   "updatedOn": "2023-10-01T10:30:00Z"
+  }
+}
+]
+}]}
